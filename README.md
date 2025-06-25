@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-orange.svg)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Smart Resume Analyzer is an AI-powered tool that helps you analyze, summarize, and compare resumes. Built using **Python**, **Streamlit**, **spaCy**, and **pdfplumber**, it provides structured insights, clean summaries, keyword matching, and job-fit scoring — all through a user-friendly web interface.
 
